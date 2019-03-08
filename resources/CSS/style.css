@@ -1,5 +1,4 @@
 ﻿html {
-  font-family: Helvetica, sans-serif;
   text-align: center;
   background-color: black;
 }
@@ -9,11 +8,26 @@ h1 {
   font-size: 50px;
   font-weight: normal;
   color: white;
-  text-align: center;
+}
+
+.camp h1 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+h2 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
 }
 
 a {
   font-align: center;
   font-size: 16px;
   color: aquamarine;
+}
+
+.closing p {
+  text-align: right;
+  color: gray;
 }
